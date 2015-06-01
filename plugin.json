@@ -1,0 +1,7 @@
+{
+  "id": "nodebb-plugin-user"
+, "name": "NodeBB user Plugin"
+, "description": "NodeBB Plugin that for users"
+, "url": "https://github.com/SargeKhan/traverse-nodebb-user-plugin"
+, "library": "./library.js"
+}
